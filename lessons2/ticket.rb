@@ -1,3 +1,5 @@
+# Реализованы методы row, seat, event в класс Ticket
+
 class Ticket
   def date
     '04.06.2021'
