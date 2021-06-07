@@ -21,10 +21,10 @@ class Ticket
     'Трудно быть рубистом'
   end
 
-  # TODO
   # Название фильма
   # Место
   # Ряд
+  
 end
 
 ticket = Ticket.new
