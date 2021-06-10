@@ -1,0 +1,9 @@
+desc 'Задача по умолчанию'
+task default: :load
+
+task :load do
+  puts 'Текущая дата и время:'
+end
+task :load do
+  puts t = Time.now 
+end
