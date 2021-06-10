@@ -1,3 +1,4 @@
+# Умножить 2 числа в интерактивном Ruby (irb)
 class H
 	def [](a , b)
 		puts a * b
