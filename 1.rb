@@ -21,3 +21,4 @@ snd.set_teacher('Симдянов Игорь')
 
 puts fst.student.to_s
 puts snd.teacher.to_s
+
