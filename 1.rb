@@ -17,8 +17,7 @@ snd = User.new
 
 fst.set_student('Афанасьев Владислав Юрьевич')
 
-snd.set_teacher('Симдянов Игорь')
+snd.set_teacher('Симдянов Игорь Вячеславович')
 
 puts fst.student.to_s
 puts snd.teacher.to_s
-
